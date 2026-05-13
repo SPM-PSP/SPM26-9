@@ -1,3 +1,7 @@
+# 贡献度
+## AI输出规范-王小磊
+## Aimentor-吴宇杰，王佳俊，董礼
+
 # GIMP AI Mentor 项目开发规范 v1.0
 
 
@@ -42,6 +46,8 @@
 def function_name(param1, param2):
     """
     一句话描述这个函数是干嘛的
+
+
     
     :param param1: 参数1的描述 (类型)
     :param param2: 参数2的描述 (类型)
