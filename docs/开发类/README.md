@@ -1,6 +1,10 @@
 # 贡献度
 ## AI输出规范-王小磊
 ## Aimentor-吴宇杰，王佳俊，董礼
+## mac版本-宋鑫锐
+## mac版本测试-董礼
+## windows版本  ai输入输出测试-周信杰
+
 
 # GIMP AI Mentor 项目开发规范 v1.0
 
