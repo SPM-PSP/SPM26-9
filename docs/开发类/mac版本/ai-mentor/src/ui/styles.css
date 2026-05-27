@@ -1,0 +1,121 @@
+/* GIMP AI Mentor - GTK Styles */
+
+/* Chat message areas */
+.chat-view text {
+    background-color: #f8f9fa;
+}
+
+/* User message styling */
+.user-message {
+    background-color: #e3f2fd;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 4px 0;
+}
+
+/* AI message styling */
+.ai-message {
+    background-color: #e8f5e9;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 4px 0;
+}
+
+/* Step guide items */
+.step-item {
+    padding: 4px 8px;
+    border-left: 3px solid #1a73e8;
+    margin: 2px 0;
+    background-color: #fafafa;
+}
+
+.step-item.completed {
+    border-left-color: #0d652d;
+    opacity: 0.7;
+}
+
+/* Toast notification */
+.toast {
+    border-radius: 6px;
+    padding: 8px 16px;
+}
+
+/* Diagnosis card */
+.diagnosis-card {
+    background-color: #ffffff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin: 4px 0;
+}
+
+/* Recipe list rows */
+.recipe-row {
+    padding: 8px 12px;
+    border-bottom: 1px solid #e8eaed;
+}
+
+.recipe-row:hover {
+    background-color: #f1f3f4;
+}
+
+/* Send button */
+button.suggested-action {
+    background-color: #1a73e8;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+button.suggested-action:hover {
+    background-color: #1557b0;
+}
+
+/* Execute/Skip buttons in step guide */
+button.flat {
+    background: none;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    padding: 2px 12px;
+}
+
+button.flat:hover {
+    background-color: #f1f3f4;
+}
+
+/* Image preview frame */
+frame {
+    border-radius: 4px;
+}
+
+/* Status bar */
+.status-bar {
+    font-size: 0.9em;
+    color: #666;
+    padding: 2px 4px;
+}
+
+/* Guide overlay window */
+.guide-window {
+    background-color: #ffffff;
+    border: 2px solid #1a73e8;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Notebook tabs */
+notebook tab {
+    padding: 4px 12px;
+}
+
+/* Cancel button */
+button.destructive-action {
+    background-color: #d93025;
+    color: #ffffff;
+}
+
+/* Before/After toggle */
+button.toggle-active {
+    background-color: #1a73e8;
+    color: #ffffff;
+}

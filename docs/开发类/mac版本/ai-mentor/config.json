@@ -1,0 +1,9 @@
+{
+  "api_url": "https://api.deepseek.com/v1/chat/completions",
+  "api_key": "sk-72e8af59008d4a20bc39e5ebe49d0368",
+  "model": "deepseek-chat",
+  "system_prompt": "You are a professional photo editing assistant. Analyze the user's image, identify areas for improvement, and provide clear step-by-step editing guidance in Chinese.",
+  "auto_apply": false,
+  "mock_mode": false,
+  "log_level": "INFO"
+}

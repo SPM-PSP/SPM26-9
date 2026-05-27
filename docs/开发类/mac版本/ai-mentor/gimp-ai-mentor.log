@@ -1,0 +1,167 @@
+[2026-05-13 10:38:11] [INFO] [UI] Dialog initialized, session=5d023193
+[2026-05-13 10:39:31] [INFO] [AI] Request completed in 2.9s
+[2026-05-13 10:40:07] [INFO] [UI] Dialog initialized, session=642e9aa2
+[2026-05-13 10:41:11] [INFO] [AI] Request completed in 3.2s
+[2026-05-13 10:41:47] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，用于后续调整.
+[2026-05-13 10:41:49] [INFO] [Engine] Step 1 executed in 0.0s: Failed: 使用曲线工具（Curves）提高整体亮度，将暗调及中间调提亮，保持高光细节. — object of type `GimpProcedureConfig-gimp-drawable-curves-spline' does not have property `num-points'
+[2026-05-13 10:42:56] [INFO] [UI] Dialog initialized, session=ce59ba53
+[2026-05-13 10:43:14] [INFO] [AI] Request completed in 1.8s
+[2026-05-13 10:43:24] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以便对比调整
+[2026-05-13 10:48:21] [INFO] [UI] Dialog initialized, session=2b90deed
+[2026-05-13 10:48:38] [INFO] [AI] Request completed in 2.2s
+[2026-05-13 10:48:47] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以便后续对比
+[2026-05-13 10:48:55] [INFO] [Engine] Step 1 executed in 0.0s: Failed: 将图片宽度和高度均缩小为原来的50% — object of type `GimpProcedureConfig-gimp-image-resize' does not have property `x'
+[2026-05-13 10:49:04] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以便后续对比
+[2026-05-13 10:49:05] [INFO] [Engine] Step 1 executed in 0.0s: Failed: 将图片宽度和高度均缩小为原来的50% — object of type `GimpProcedureConfig-gimp-image-resize' does not have property `x'
+[2026-05-13 10:49:09] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以便后续对比
+[2026-05-13 10:50:02] [INFO] [AI] Request completed in 3.2s
+[2026-05-13 10:50:04] [INFO] [Engine] Step 0 executed in 0.0s: 创建阴影调整图层
+[2026-05-13 10:50:05] [INFO] [Engine] Step 1 executed in 0.1s: 使用正片叠底模式压暗暗部，加深阴影
+[2026-05-13 10:50:06] [INFO] [Engine] Step 2 executed in 0.0s: 微调整体明暗和对比度，强化阴影效果
+[2026-05-13 10:57:00] [INFO] [UI] Dialog initialized, session=9ee80f58
+[2026-05-13 10:57:16] [INFO] [AI] Request completed in 1.6s
+[2026-05-13 10:57:25] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-13 10:57:56] [INFO] [Engine] Step 1 executed in 0.0s: 新建透明度调整层
+[2026-05-20 08:37:09] [INFO] [UI] Dialog initialized, session=090895c3
+[2026-05-20 08:37:50] [INFO] [AI] Request completed in 2.4s
+[2026-05-20 08:37:56] [INFO] [Engine] Step 0 executed in 0.1s: 创建预览层，便于后续调整和对比。
+[2026-05-20 08:38:22] [INFO] [Engine] Step 1 executed in 0.1s: 调整输入色阶的阴影滑块，压暗阴影区域。
+[2026-05-20 08:38:57] [INFO] [Engine] Step 2 executed in 0.0s: Failed: 使用曲线工具进一步压暗暗部，同时保持高光部分不变。 — object of type `GimpProcedureConfig-gimp-drawable-curves-spline' does not have property `control-pts'
+[2026-05-20 08:41:43] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于后续调整和对比。
+[2026-05-20 08:41:55] [INFO] [Engine] Step 1 executed in 0.1s: 调整输入色阶的阴影滑块，压暗阴影区域。
+[2026-05-20 08:43:23] [INFO] [Engine] Step 2 executed in 0.0s: Failed: 使用曲线工具进一步压暗暗部，同时保持高光部分不变。 — object of type `GimpProcedureConfig-gimp-drawable-curves-spline' does not have property `control-pts'
+[2026-05-20 08:53:56] [INFO] [UI] Dialog initialized, session=f341d76e
+[2026-05-20 08:54:12] [INFO] [AI] Request completed in 1.2s
+[2026-05-20 08:54:18] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用透明度调整
+[2026-05-20 08:54:34] [INFO] [Engine] Step 1 executed in 0.0s: 当前图层不透明度降至70%
+[2026-05-20 08:55:52] [INFO] [UI] Dialog initialized, session=13eceac0
+[2026-05-20 08:56:04] [INFO] [AI] Request completed in 1.9s
+[2026-05-20 08:56:07] [INFO] [Engine] Step 0 executed in 0.0s: 复制图层，用于降低不透明度调整
+[2026-05-20 08:56:08] [INFO] [Engine] Step 1 executed in 0.0s: 新建空白层并调节不透明度至70%
+[2026-05-20 08:56:27] [INFO] [Engine] Step 0 executed in 0.0s: 复制图层，用于降低不透明度调整
+[2026-05-20 08:56:32] [INFO] [Engine] Step 1 executed in 0.0s: 新建空白层并调节不透明度至70%
+[2026-05-20 08:58:25] [INFO] [Engine] Step 0 executed in 0.0s: 复制图层，用于降低不透明度调整
+[2026-05-20 08:58:38] [INFO] [Engine] Step 1 executed in 0.0s: 新建空白层并调节不透明度至70%
+[2026-05-20 09:03:02] [INFO] [UI] Dialog initialized, session=aca48ebb
+[2026-05-20 09:03:26] [INFO] [AI] Request completed in 1.6s
+[2026-05-20 09:19:39] [INFO] [UI] Dialog initialized, session=adf88e28
+[2026-05-20 09:19:51] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:19:55] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:19:58] [INFO] [Engine] Step 2 executed in 0.1s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:19:59] [INFO] [Engine] Step 3 executed in 0.0s: Failed: 锐化增强远景细节（半径3.0） — sharpen not found
+[2026-05-20 09:20:17] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:20:19] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:20:33] [INFO] [Engine] Step 2 executed in 0.0s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:20:42] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:20:49] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:20:57] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:20:59] [INFO] [Engine] Step 2 executed in 0.0s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:21:24] [INFO] [Engine] Step 3 executed in 0.0s: Failed: 锐化增强远景细节（半径3.0） — sharpen not found
+[2026-05-20 09:27:51] [INFO] [UI] Dialog initialized, session=2119e0c6
+[2026-05-20 09:27:55] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:28:06] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:28:19] [INFO] [Engine] Step 2 executed in 0.1s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:28:24] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:28:31] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:28:35] [INFO] [Engine] Step 2 executed in 0.0s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:29:03] [INFO] [Engine] Step 3 executed in 0.0s: Failed: 锐化增强远景细节（半径3.0） — gegl not found
+[2026-05-20 09:29:33] [INFO] [UI] Dialog initialized, session=6ba8f2aa
+[2026-05-20 09:29:59] [INFO] [AI] Request completed in 1.7s
+[2026-05-20 09:30:09] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于观察透明度调整效果。
+[2026-05-20 09:30:15] [INFO] [Engine] Step 1 executed in 0.1s: 降低对比度以模拟透明度降低后的视觉效果。
+[2026-05-20 09:32:58] [INFO] [AI] Request completed in 2.0s
+[2026-05-20 09:32:59] [INFO] [Engine] Step 0 executed in 0.1s: 创建预览层，便于观察透明度调整效果。
+[2026-05-20 09:33:01] [INFO] [Engine] Step 1 executed in 0.0s: 创建新图层并设置不透明度为50%，叠加于原图之上以模拟半透明效果。
+[2026-05-20 09:33:21] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于观察透明度调整效果。
+[2026-05-20 09:33:25] [INFO] [Engine] Step 1 executed in 0.0s: 创建新图层并设置不透明度为50%，叠加于原图之上以模拟半透明效果。
+[2026-05-20 09:34:29] [INFO] [AI] Request completed in 1.9s
+[2026-05-20 09:34:36] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于观察透明度调整效果。
+[2026-05-20 09:34:39] [INFO] [Engine] Step 1 executed in 0.0s: 创建新图层并设置不透明度为0%，覆盖原图以实现完全透明效果。
+[2026-05-20 09:35:47] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 09:35:49] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于观察亮度调整效果。
+[2026-05-20 09:35:51] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度滑块降至最低（-255），使图像完全变黑。
+[2026-05-20 09:36:27] [INFO] [AI] Request completed in 2.1s
+[2026-05-20 09:36:31] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层，便于观察亮度调整效果。
+[2026-05-20 09:36:33] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度调低约一半（-128），实现降低一半亮度的效果。
+[2026-05-20 09:37:12] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:37:12] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:37:49] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:37:50] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 09:38:02] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:38:11] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:38:13] [INFO] [Engine] Step 2 executed in 0.1s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:51:04] [INFO] [UI] Dialog initialized, session=9eef4f53
+[2026-05-20 09:51:59] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 09:52:08] [INFO] [Engine] Step 2 executed in 0.1s: 饱和度+22，画面更鲜艳
+[2026-05-20 09:52:54] [INFO] [UI] Dialog initialized, session=d7e8a1e0
+[2026-05-20 09:53:13] [INFO] [AI] Request completed in 2.2s
+[2026-05-20 09:53:15] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用调整。
+[2026-05-20 09:53:21] [INFO] [Engine] Step 1 executed in 0.1s: 将亮度提升至最大值255（范围0-255），但1000%远超正常范围，此步骤仅尝试最大可调值。
+[2026-05-20 09:53:51] [INFO] [AI] Request completed in 2.1s
+[2026-05-20 09:53:53] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用调整。
+[2026-05-20 09:53:59] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用调整。
+[2026-05-20 09:54:01] [INFO] [Engine] Step 1 executed in 0.1s: 将亮度设置为0，即完全黑场。
+[2026-05-20 09:54:24] [INFO] [AI] Request completed in 1.7s
+[2026-05-20 09:54:26] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用调整。
+[2026-05-20 09:54:27] [INFO] [Engine] Step 1 executed in 0.1s: 将亮度设置为最大值255。
+[2026-05-20 09:55:06] [INFO] [Engine] Step 1 executed in 0.1s: 色阶：压缩高光、提亮暗部
+[2026-05-20 10:00:29] [INFO] [UI] Dialog initialized, session=6b2a10e0
+[2026-05-20 10:00:46] [INFO] [AI] Request completed in 2.0s
+[2026-05-20 10:00:48] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层用于编辑效果对比
+[2026-05-20 10:00:50] [INFO] [Engine] Step 1 executed in 0.1s: 将全局饱和度提升100单位
+[2026-05-20 10:03:27] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 10:03:31] [INFO] [Engine] Step 1 executed in 0.0s: Failed: 色彩平衡：偏青蓝色电影色调 — object of type `GimpProcedureConfig-gimp-drawable-color-balance' does not have property `range'
+[2026-05-20 10:03:35] [INFO] [Engine] Step 2 executed in 0.1s: 提升对比度，营造电影质感
+[2026-05-20 10:03:43] [INFO] [Engine] Step 3 executed in 0.0s: Failed: 暗角效果增强画面聚焦 — gegl not found
+[2026-05-20 10:05:06] [INFO] [UI] Dialog initialized, session=a6df27b0
+[2026-05-20 10:05:16] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 10:05:18] [INFO] [Engine] Step 1 executed in 0.1s: 亮度+20，降低对比度获得柔和质感
+[2026-05-20 10:05:38] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 10:05:41] [INFO] [Engine] Step 1 executed in 0.1s: 降低饱和度-30，模拟褪色胶片
+[2026-05-20 10:05:50] [INFO] [Engine] Step 2 executed in 0.0s: Failed: 色彩平衡：增加暖黄色调 — object of type `GimpProcedureConfig-gimp-drawable-color-balance' does not have property `range'
+[2026-05-20 10:13:37] [INFO] [UI] Dialog initialized, session=9e655186
+[2026-05-20 10:13:40] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 10:13:42] [INFO] [Engine] Step 1 executed in 0.1s: 亮度+20，降低对比度获得柔和质感
+[2026-05-20 10:13:45] [INFO] [Engine] Step 2 executed in 0.0s: Failed: 色彩平衡：偏青蓝色清新色调 — object of type `GimpProcedureConfig-gimp-drawable-color-balance' does not have property `range'
+[2026-05-20 10:13:52] [INFO] [Engine] Step 3 executed in 0.1s: 轻微降低饱和度，亮度+5
+[2026-05-20 10:14:18] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 10:14:19] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用亮度调整
+[2026-05-20 10:14:20] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度增加60个单位
+[2026-05-20 10:14:33] [INFO] [AI] Request completed in 1.4s
+[2026-05-20 10:14:36] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用亮度调整
+[2026-05-20 10:14:39] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度增加100个单位
+[2026-05-20 10:15:30] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 10:15:32] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用最大亮度调整
+[2026-05-20 10:15:34] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度增加255个单位，达到软件允许的最大值
+[2026-05-20 10:15:56] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 10:15:57] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用亮度重置操作
+[2026-05-20 10:16:02] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度重置为0，恢复默认亮度值
+[2026-05-20 10:16:26] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用亮度重置操作
+[2026-05-20 10:16:30] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度重置为0，恢复默认亮度值
+[2026-05-20 10:16:54] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 10:16:57] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用亮度重置操作
+[2026-05-20 10:17:02] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度设置为0，恢复为原始亮度值
+[2026-05-20 10:17:35] [INFO] [AI] Request completed in 1.8s
+[2026-05-20 10:17:37] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用变暗调整
+[2026-05-20 10:17:40] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度降低50个单位，使图像变暗
+[2026-05-20 10:18:05] [INFO] [AI] Request completed in 1.6s
+[2026-05-20 10:18:10] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用极致变黑操作
+[2026-05-20 10:18:14] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度降至最低值-255，使图像完全变黑
+[2026-05-20 10:18:51] [INFO] [AI] Request completed in 1.7s
+[2026-05-20 10:18:53] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用最低亮度调整
+[2026-05-20 10:18:56] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度降低到-255，达到软件允许的最小值
+[2026-05-20 10:19:22] [INFO] [AI] Request completed in 2.9s
+[2026-05-20 10:19:24] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用暗部调整
+[2026-05-20 10:19:26] [INFO] [Engine] Step 1 executed in 0.0s: Failed: 将输入色阶的阴影滑块移至0，但保留高光不变，实际应通过调整阴影输出来压暗 — gegl not found
+[2026-05-20 10:19:48] [INFO] [AI] Request completed in 1.5s
+[2026-05-20 10:19:49] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用极致变黑操作
+[2026-05-20 10:19:54] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度降至最低值-255，使图像完全变黑
+[2026-05-20 10:20:09] [INFO] [AI] Request completed in 1.5s
+[2026-05-20 10:20:10] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层以应用极致变白操作
+[2026-05-20 10:20:14] [INFO] [Engine] Step 1 executed in 0.0s: 将亮度提升至最高值255，使图像完全变白
+[2026-05-20 10:38:23] [INFO] [UI] Dialog initialized, session=08b71c36
+[2026-05-20 10:38:26] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
+[2026-05-20 10:38:28] [INFO] [Engine] Step 1 executed in 0.1s: 亮度+20，降低对比度获得柔和质感
+[2026-05-20 10:38:29] [INFO] [Engine] Step 2 executed in 0.0s: Failed: 色彩平衡：偏青蓝色清新色调 — object of type `GimpProcedureConfig-gimp-drawable-color-balance' does not have property `range'
+[2026-05-20 10:38:35] [INFO] [Engine] Step 3 executed in 0.1s: 轻微降低饱和度，亮度+5
+[2026-05-20 10:39:13] [INFO] [Engine] Step 0 executed in 0.0s: 创建预览层
